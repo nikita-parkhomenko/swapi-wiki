@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/swapi-wiki/static/css/main.800700ed.chunk.css",
+    "main.js": "/swapi-wiki/static/js/main.fa7eab98.chunk.js",
+    "main.js.map": "/swapi-wiki/static/js/main.fa7eab98.chunk.js.map",
+    "runtime-main.js": "/swapi-wiki/static/js/runtime-main.88c466a3.js",
+    "runtime-main.js.map": "/swapi-wiki/static/js/runtime-main.88c466a3.js.map",
+    "static/js/2.7e1b2d46.chunk.js": "/swapi-wiki/static/js/2.7e1b2d46.chunk.js",
+    "static/js/2.7e1b2d46.chunk.js.map": "/swapi-wiki/static/js/2.7e1b2d46.chunk.js.map",
+    "index.html": "/swapi-wiki/index.html",
+    "precache-manifest.4381390326ba338bc7d3cb23bebad70e.js": "/swapi-wiki/precache-manifest.4381390326ba338bc7d3cb23bebad70e.js",
+    "service-worker.js": "/swapi-wiki/service-worker.js",
+    "static/css/main.800700ed.chunk.css.map": "/swapi-wiki/static/css/main.800700ed.chunk.css.map",
+    "static/js/2.7e1b2d46.chunk.js.LICENSE": "/swapi-wiki/static/js/2.7e1b2d46.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88c466a3.js",
+    "static/js/2.7e1b2d46.chunk.js",
+    "static/css/main.800700ed.chunk.css",
+    "static/js/main.fa7eab98.chunk.js"
+  ]
+}
