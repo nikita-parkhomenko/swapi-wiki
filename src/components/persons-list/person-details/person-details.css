@@ -1,0 +1,18 @@
+.person-details {
+    padding: 30px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    border: 1px solid grey;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #95dada;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+
+.person-details:hover {
+    transform: scale(1.05);
+}

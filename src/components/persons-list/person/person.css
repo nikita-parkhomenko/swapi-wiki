@@ -1,0 +1,18 @@
+.person {
+    width: 200px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    background-color: #95dada;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+
+.person:hover {
+    transform: scale(1.05);
+}
